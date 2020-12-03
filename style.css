@@ -11,3 +11,7 @@
   width: 100%;
   height: 500px;
 }
+.contact_paragraph{
+  display: flex;
+  vertical-align: middle;
+}
